@@ -36,6 +36,10 @@ Wating (buy):
 
 
 System details:
-https://github.com/fox-zi/hackintosh/assets/image/performance.png
-https://github.com/fox-zi/hackintosh/assets/image/usb-port.png
+![alt tag](https://github.com/fox-zi/hackintosh/blob/main/assets/image/performance.png)
+![alt tag](https://github.com/fox-zi/hackintosh/blob/main/assets/image/usb-port.png)
+![alt tag](https://github.com/fox-zi/hackintosh/blob/main/assets/image/videoproc.png)
+
+
+
 
