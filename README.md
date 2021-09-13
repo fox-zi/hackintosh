@@ -30,7 +30,7 @@ Note:
 - Gpu intel 11th don't supported.
 - Fake device ()
 
-Wating (buy):
+Waiting (buy):
  - Card wifi, bluetooth and airdrops
  - Camera
 
