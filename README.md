@@ -8,7 +8,7 @@ Hardware:
  - SSD: `Samsung NVMe PM9A1 Gen4x4, 980`
  - PSU: `Corsair CX750M - 80 Plus`
  - Cooling System: `Water custom`
- - Moniter: `29WN600-W 29" 21: 9 UltraWide`
+ - Moniter: `LG 29WN600-W 29" 21: 9 UltraWide`
 
 Software:
  - Open Code: `0.7.2`
